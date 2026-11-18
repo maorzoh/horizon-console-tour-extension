@@ -1,6 +1,5 @@
 # Horizon Console Tour Guide
 
-![Status](https://img.shields.io/badge/status-test%20release-orange)
 ![Version](https://img.shields.io/badge/version-0.1.0-blue)
 ![Manifest](https://img.shields.io/badge/manifest-v3-green)
 ![Browsers](https://img.shields.io/badge/browsers-Chrome%20%7C%20Edge-lightgrey)
