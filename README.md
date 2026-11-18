@@ -24,12 +24,28 @@ Horizon Console Tour Guide is a browser extension for administrators who want to
 
 ## Screenshots
 
-<img width="588" height="407" alt="image" src="https://github.com/user-attachments/assets/79a63db8-8532-4c9c-bf06-2922c24361b0" />
+---
+
+![Screenshot 1](https://github.com/user-attachments/assets/79a63db8-8532-4c9c-bf06-2922c24361b0)
+
+---
+
+![Screenshot 2](https://github.com/user-attachments/assets/2d772de9-dfa8-44bf-bb97-39ea0a80c53b)
+
+---
+
+![Screenshot 3](https://github.com/user-attachments/assets/f1953132-3593-4083-b5f9-5d57f009beda)
+
+---
+
+![Screenshot 4](https://github.com/user-attachments/assets/54e8b1ec-af55-489d-b6bb-85f52fc7c66e)
+
+---
+![Screenshot 5](https://github.com/user-attachments/assets/dc12f10b-f7fa-4926-8d45-e0717c10eaf4)
+
+---
 
 
-| Switch on | Hover explanation |
-|---|---|
-| `docs/screenshots/switch-on.png` | `docs/screenshots/hover.png` |
 
 ## Install
 
