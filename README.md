@@ -1,4 +1,4 @@
-# Horizon Console Tour Guide
+# Horizon Console Tour Browser Extension
 
 ![Version](https://img.shields.io/badge/version-0.1.0-blue)
 ![Manifest](https://img.shields.io/badge/manifest-v3-green)
