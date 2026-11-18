@@ -24,7 +24,8 @@ Horizon Console Tour Guide is a browser extension for administrators who want to
 
 ## Screenshots
 
-> Add sanitized screenshots here before publishing (no customer names, IP addresses or host names).
+<img width="588" height="407" alt="image" src="https://github.com/user-attachments/assets/79a63db8-8532-4c9c-bf06-2922c24361b0" />
+
 
 | Switch on | Hover explanation |
 |---|---|
