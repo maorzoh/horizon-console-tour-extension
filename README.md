@@ -92,7 +92,3 @@ Explanations live in a single file, so contributions are simple.
 ## Disclaimer
 
 This software is provided as is, without warranty of any kind. It is a community tool, not a product of Omnissa. Verify every setting in the official documentation and in a test environment before you change anything in production.
-
-## License
-
-TBD. Choose a license before publishing.
