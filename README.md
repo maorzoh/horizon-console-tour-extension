@@ -76,7 +76,7 @@ The toolbar icon does the same as the header button.
 | Wizards | Add Pool, Add Farm, Add Global Entitlement |
 | Dialogs | Add Entitlements, Associate Application Icon |
 | Settings | Idle session timeout, Blast Secure Gateway, Login Deceleration Level |
-| Buttons and columns | ENTITLEMENTS, Machine Name, Connected User |
+| Buttons and columns | Entitlements, Machine Name, Connected User |
 
 The explanations are written as plain-language summaries. They do not replace the official documentation.
 
