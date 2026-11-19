@@ -1,0 +1,36 @@
+{
+  "manifest_version": 3,
+  "name": "Omnissa Admin Console Tour",
+  "version": "0.2.0",
+  "description": "Hover any menu item or setting in Omnissa Horizon and Unified Access Gateway admin consoles to see what it does.",
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "action": {
+    "default_title": "Omnissa Admin Console Tour: turn hover explanations on or off",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*/admin/*"
+      ],
+      "js": [
+        "tour-data.js",
+        "content.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ]
+}
