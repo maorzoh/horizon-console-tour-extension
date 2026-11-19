@@ -50,6 +50,22 @@ It adds a switch to the console header. When the switch is on, hovering over an 
 
 ---
 
+![Screenshot 6](https://github.com/user-attachments/assets/8070a017-2d49-4f89-b7c9-7f66158414d1)
+
+---
+
+![Screenshot 7](https://github.com/user-attachments/assets/e136d650-f204-46f8-879d-2fd46c108c52)
+
+---
+
+![Screenshot 8](https://github.com/user-attachments/assets/93fd8c53-ec0b-4cf7-a15d-3d764346f069)
+
+---
+
+![Screenshot 8](https://github.com/user-attachments/assets/6d291b31-e6a5-4c8e-b0a0-b23e9b8aa5c2)
+
+---
+
 ## Install
 
 The extension is not on the Chrome Web Store or Edge Add-ons yet, so install it in developer mode.
@@ -97,7 +113,6 @@ The explanations are written as plain-language summaries. They do not replace th
 - **English console only.** The explanations are written for the English user interface.
 - **UAG 26.09 and later only.** Older UAG interfaces look different, so the button does not appear on them.
 - **Descriptions can lag behind a new version.** UAG descriptions are based on the 26.09 documentation. Check the official documentation for the version you run.
-- **Not every label is covered yet.** Anything without an explanation shows no tooltip. Contributions are welcome.
 - **Chromium only.** Built for Chrome and Edge (Chromium-based browsers).
 
 ## Privacy and permissions
