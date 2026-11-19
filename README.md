@@ -30,7 +30,7 @@ It adds a switch to the console header. When the switch is on, hovering over an 
 
 ---
 
-![Screenshot 1](https://github.com/user-attachments/assets/79a63db8-8532-4c9c-bf06-2922c24361b0)
+![Screenshot 1](https://github.com/user-attachments/assets/1b1aad18-9ab2-46f2-814c-009e7eeca3d2)
 
 ---
 
@@ -50,7 +50,7 @@ It adds a switch to the console header. When the switch is on, hovering over an 
 
 ---
 
-![Screenshot 6](https://github.com/user-attachments/assets/8070a017-2d49-4f89-b7c9-7f66158414d1)
+![Screenshot 6](https://github.com/user-attachments/assets/3bd09f72-7993-4802-893b-47993745a1dd)
 
 ---
 
